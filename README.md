@@ -45,7 +45,7 @@ The following diagram shows the **logical relational schema** based on the ER mo
 | File | Description |
 |------|-------------|
 | `P_1.drawio.png` | ER Diagram |
-| `Screenshot (676).png` | Relational Schema Diagram |
+| `ERD.png` | Relational Schema Diagram |
 | `Manag-System.sql` | SQL script for schema creation |
 
 ---
