@@ -19,7 +19,7 @@ The system is designed to model:
 
 This diagram presents the **conceptual model** of the system, including entities, relationships, and attributes (with derived ones dashed).
 
-![ER Diagram](P_1.drawio.png)
+![ER Diagram](ERD.png)
 
 ---
 
@@ -27,7 +27,7 @@ This diagram presents the **conceptual model** of the system, including entities
 
 The following diagram shows the **logical relational schema** based on the ER model. It includes tables, primary keys, and foreign key relationships.
 
-![Relational Schema](Screenshot%20(676).png)
+![Relational Schema](P_1.drawio.png)
 
 ---
 
